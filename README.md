@@ -1,2 +1,2 @@
 # TicTacToe
-A Tic-Tac-Toe game using Java to create the game
+A Tic-Tac-Toe game that has the player against the computer
